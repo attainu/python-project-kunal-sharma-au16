@@ -11,15 +11,16 @@ For using without any outside library installed, download this file and
 use it for your benefit and ease of sorting your mess and junk from your desktop.
 
 Main functionality of this code is mentioned below with their explanation.
-```1.Organize by Extension 
+
+1.Organize by Extension 
 2.Organize by Size  
 3.Organize by Date and Time  
 4.Re-Organize ordered file into Junk File as they were previously.
-```So, as shown above the user will choose which method to opt for the execution of their
- junk files and organize them in the way mentioned with each selection method.
+So, as shown above the user will choose which method to opt for the execution of their
+junk files and organize them in the way mentioned with each selection method.
 
 Things that going to perform in the program -
-```
+
 1. Organize by Extension:
   In this your files get organized by the means of using the file extensions 
 such as if you have a text file the extension would be (.txt) same as with Image file having extension (.img,.jpg), .pdf etc.
@@ -31,7 +32,7 @@ Megabytes, Gigabytes.
  random folders will be created according to files last used date and all files will be moved to folders.
 4. Convert well organized file into junk file as the wording itself is very clear 
  In this your Organized File gets converted back into Junk File and all the extra folder are get deleted.
-```
+
 Please Note:
 If user provide wrong path than program will ask to enter valid path for execution of the code.
 
