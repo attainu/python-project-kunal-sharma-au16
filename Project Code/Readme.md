@@ -30,7 +30,7 @@ Megabytes, Gigabytes.
 3. Organize by Time and Date
  In this your file get organized by using this option user can organize their files by last used date.
  random folders will be created according to files last used date and all files will be moved to folders.
-4. Convert well organized file into junk file as the wording itself is very clear 
+4. Convert well organized file into junk file as the wording itself is very clear, 
  In this your Organized File gets converted back into Junk File and all the extra folder are get deleted.
 
 Please Note:
